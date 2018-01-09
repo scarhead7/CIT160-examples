@@ -1,6 +1,6 @@
 /* Snell, Dallin
 ** 09 JAN 2018
-** A C code example: regular conditional (i.e. non-tertiary).
+** A C code example: regular conditional (i.e. non-ternary).
 */
 
 
